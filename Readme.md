@@ -6,6 +6,8 @@
 - https://ensekitt.hatenablog.com/entry/2017/12/19/200000
   - PythonのOpenCVでカメラの画像を扱う方法についての記事．
   - どう画像を読み込むかについて参考にさせて貰いました．  
+- http://opencv.jp/opencv-2svn/py/core_drawing_functions.html#FillConvexPoly
+  - 各OpenCVの使い方やそれぞれの引数などについてはこのサイトを元に調べました.  
 - http://google-os.blog.jp/archives/50816150.html
   - 脈拍を測定する考え方や実装についての記事．
   - 読み込んだ画像の輝度値のうち、どの成分が変化するかなど理論について参考にしました.
